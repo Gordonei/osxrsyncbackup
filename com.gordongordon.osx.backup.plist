@@ -9,9 +9,6 @@
       <string>/Users/gordon/Documents/workspace/osxrsyncbackup/backup.py</string>
     
     <key>StartInterval</key>
-        <integer>10</integer>
-        
-    <key>RunAtLoad</key>
-        <true/>
+        <integer>60</integer>
   </dict>
 </plist>
