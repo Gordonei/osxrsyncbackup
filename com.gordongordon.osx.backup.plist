@@ -6,7 +6,7 @@
       <string>com.gordongordon.osx.backup</string>
     
     <key>Program</key>
-      <string>/Users/gordon/Documents/workspace/osxrsyncbackup/backup.py</string>
+      <string>/Users/rebecca/Documents/osxrsyncbackup/backup.py</string>
     
     <key>StartInterval</key>
         <integer>60</integer>
