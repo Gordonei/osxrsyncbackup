@@ -11,11 +11,10 @@ setup
 * backup.py:
 ** needs to have executable permissions set (chmod +x backup.py)
 * com.gordongordon.osx.backup.plist:
-    1) Needs to be copied to ~/Library/LaunchAgents (cp com.gordongordon.osx.backup.plist ~/Library/LaunchAgents)
-    2) Needs to be loaded into launchd (launchctl load ~/Library/LaunchAgents/com.gordongordon.osx.backup.plist)
-    3) Needs to be started (launchctl start com.gordongordon.osx.backup)
+#) Needs to be copied to ~/Library/LaunchAgents (cp com.gordongordon.osx.backup.plist ~/Library/LaunchAgents)
+#) Needs to be loaded into launchd (launchctl load ~/Library/LaunchAgents/com.gordongordon.osx.backup.plist)
+#) Needs to be started (launchctl start com.gordongordon.osx.backup)
     
 ToDo
 ----
-* replicate the file structure from the folder being copied
 * a better configuration system
