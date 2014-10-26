@@ -1,6 +1,8 @@
 #osxrsyncbackup
+
 Gordon Inggs
 September 2014
+
 Scripting for backing up certain key file types to another local directory location. Intended to be used with a redudant local drive, or a cloud storage service such as Dropbox or Google Drive.
 
 ##configuration
